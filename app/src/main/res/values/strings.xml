@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS Camera</string>
+    
+    <!-- Login Screen -->
+    <string name="login_title">Welcome to GPS Camera</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="or">OR</string>
+    <string name="enter_mobile">Enter Mobile Number</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="login">Login</string>
+    
+    <!-- Home Screen -->
+    <string name="home_title">GPS Camera</string>
+    <string name="capture_photo">Capture Photo</string>
+    <string name="view_records">View My Records</string>
+    <string name="sync_pending">Sync Pending Data</string>
+    <string name="logout">Logout</string>
+    
+    <!-- Camera Screen -->
+    <string name="camera_title">Camera</string>
+    <string name="capture">Capture</string>
+    <string name="fetching_location">Fetching location…</string>
+    <string name="location_fetched">Location fetched</string>
+    <string name="gps_accuracy">GPS Accuracy: %1$s meters</string>
+    
+    <!-- Input Screen -->
+    <string name="input_title">Enter Details</string>
+    <string name="input_id_label">Alphanumeric ID *</string>
+    <string name="input_id_hint">Enter ID (Max 1KB)</string>
+    <string name="remarks_label">Remarks (Optional)</string>
+    <string name="remarks_hint">Enter remarks</string>
+    <string name="next">Next</string>
+    <string name="input_id_required">Input ID is required</string>
+    <string name="input_id_too_large">Input ID exceeds 1KB limit</string>
+    
+    <!-- Preview Screen -->
+    <string name="preview_title">Preview</string>
+    <string name="save">Save</string>
+    <string name="retake">Retake</string>
+    <string name="uploading">Uploading…</string>
+    <string name="upload_success">Upload successful!</string>
+    <string name="upload_failed">Upload failed. Data saved offline.</string>
+    
+    <!-- Records Screen -->
+    <string name="records_title">My Records</string>
+    <string name="no_records">No records found</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="location">Location</string>
+    <string name="input_id">Input ID</string>
+    
+    <!-- Common -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">Error</string>
+    <string name="permission_required">Permission required</string>
+    <string name="camera_permission_required">Camera permission is required</string>
+    <string name="location_permission_required">Location permission is required</string>
+    <string name="gps_disabled">GPS is disabled. Please enable it.</string>
+    <string name="no_internet">No internet connection. Data will be synced when available.</string>
+</resources>
